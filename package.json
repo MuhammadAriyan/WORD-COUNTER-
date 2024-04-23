@@ -1,0 +1,14 @@
+{
+  "name": "project5-words-counter",
+  "version": "1.0.0",
+  "bin" : "./words.ts",
+  "description": "HEY THERE, THIS PROGRAM IS GONNA COUNT THE WORDS",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
