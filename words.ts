@@ -22,6 +22,3 @@ console.log(chalk.green(`YOUR SENTENCE : ${input.a} `))
 let B = input.a.trim().replace(/\s+/g,' ') 
 let c = B.split(' ') 
 console.log(chalk.blue(`IT GOT ${c.length} WORDS `))
-
-let a = `jidhuagdyeedgiidgqi hdouqwheowqheoiqw iuueiowueiowue                e`
-console.log(a.split(`.`),a)
